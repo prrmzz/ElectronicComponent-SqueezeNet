@@ -92,12 +92,3 @@ The model is evaluated on the test set to compute **accuracy**, **ROC-AUC**, **T
 ## Challenges
 
 Due to the large size of the model and dataset, running the code on **Google Colab** was not feasible. As a result, the model will be trained and evaluated in the **next branch** using a more powerful environment.
-
----
-
-## How to Run the Code
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/electronic-components-classification.git
-cd electronic-components-classification
