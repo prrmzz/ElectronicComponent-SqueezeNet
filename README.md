@@ -1,6 +1,11 @@
 # **Faster SqueezeNet Architecture**
 
-The Faster SqueezeNet model is a lightweight deep learning architecture designed for efficient image classification.  
+This repository contains the implementation of an electronic component recognition algorithm based on a custom Faster SqueezeNet deep learning model. The project aims to classify electronic components (such as capacitors, resistors, inductors, transistors, and ICs) with high accuracy and low computational complexity.
+
+The work is inspired by the research paper:
+"An Electronic Component Recognition Algorithm Based on Deep Learning with a Faster SqueezeNet"
+by Yuanyuan Xu, Genke Yang, Jiliang Luo, and Jianan He, published in Mathematical Problems in Engineering, 2020.
+Link to the paper'
 
 ## **Key Features**  
 - **Fire Module**: Combines 1×1 and 3×3 convolutions to reduce the number of parameters.  
