@@ -15,9 +15,6 @@ by Yuanyuan Xu, Genke Yang, Jiliang Luo, and Jianan He, published in *Mathematic
 3. [Faster SqueezeNet Architecture](#faster-squeezenet-architecture)
 4. [Simulation Process](#simulation-process)
 5. [Challenges](#challenges)
-6. [How to Run the Code](#how-to-run-the-code)
-7. [Dependencies](#dependencies)
-8. [License](#license)
 
 ---
 
